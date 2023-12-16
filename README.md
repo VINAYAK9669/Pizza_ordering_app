@@ -13,7 +13,7 @@ Welcome to the React Pizza Order App, a professional-level web application that 
 
 ## 🚀 Live Demo
 
-Check out the live demo [here](#)!
+Check out the live demo [here](https://react-pizza-ordering-app-by-advinay.netlify.app/)!
 
 ## 🌟 Flow and Features
 
