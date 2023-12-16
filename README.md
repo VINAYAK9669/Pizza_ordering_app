@@ -53,6 +53,3 @@ Check out the live demo [here](https://react-pizza-ordering-app-by-advinay.netli
 - Provides a priority button for express orders, with an extra cost.
 
 
-## 🌐 Screenshots
-
-[Insert Screenshots Here]
