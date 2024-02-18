@@ -52,4 +52,24 @@ Check out the live demo [here](https://react-pizza-ordering-app-by-advinay.netli
 - Displays the total price of all items.
 - Provides a priority button for express orders, with an extra cost.
 
+## How to Install and Run
+
+1. Clone the repository:
+
+    ```bash
+    gh repo clone VINAYAK9669/Pizza_ordering_app
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    cd Pizza_ordering_app
+    npm install
+    ```
+
+3. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
 
